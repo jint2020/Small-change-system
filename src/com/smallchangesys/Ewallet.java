@@ -68,11 +68,5 @@ public class Ewallet {
 
     }
 
-    public static void main(String[] args) {
-        Date d = new Date();
-        Ewallet ew = new Ewallet("收入",200,d,200);
-
-        System.out.println(ew);
-    }
 
 }
